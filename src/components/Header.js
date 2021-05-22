@@ -17,8 +17,9 @@ const Header = () => {
             <Link
                 to={"/productos/nuevo"}
                 className="btn btn-danger d-block d-md-inline-block"
-            >Agregar producto &#43;</Link>
+            >Agregar Producto &#43;</Link>
         </nav>
+        
     )
 }
 export default Header;
